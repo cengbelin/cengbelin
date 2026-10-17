@@ -2,6 +2,7 @@
 
 <div align="center">
 
+Computer Engineering Student - Belin AY
 Pac-Man 👾
 
 <br>
