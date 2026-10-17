@@ -1,4 +1,3 @@
-# github-pacman
 
 <div align="center">
 
