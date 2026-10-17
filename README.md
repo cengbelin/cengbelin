@@ -1,7 +1,7 @@
 
 <div align="center">
 
-Computer Engineering Student - PrintHere Teknoloji ve Yazılım A.Ş. - İş Geliştirme
+Belin AY - Computer Engineering Student - PrintHere Teknoloji ve Yazılım A.Ş. - İş Geliştirme
 
 <br>
 
