@@ -1,8 +1,7 @@
 
 <div align="center">
 
-Computer Engineering Student - Belin AY -
-Pac-Man 👾
+Computer Engineering Student - PrintHere Teknoloji ve Yazılım A.Ş. - İş Geliştirme
 
 <br>
 
